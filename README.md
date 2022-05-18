@@ -68,9 +68,9 @@ _strcmpdir : compares strings to find dir. find_command : finds command to execu
 README.md: this.
 
 Authors
-Jesse Mawulorm Domey
-Akosua Osei-Bonsu
+Nathaniel Yeboah
+Fransica Boafo
 
 github
-@Jesse-Domey
-@akosuab
+@Nateyeb 
+@franca
